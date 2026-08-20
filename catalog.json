@@ -1,73 +1,74 @@
 {
   "name": "CyVerse Timelapse Image Series",
-  "description": "Extracted plant growth timelapses from CyVerse Data Store",
-  "updated_at": "2026-08-20T16:58:45.944690Z",
+  "description": "Plant growth timelapses extracted from CyVerse Data Store for AstroBotany calibration",
+  "updated_at": "2026-08-20T17:32:53.571866Z",
+  "source": "https://github.com/dr-richard-barker/timelapse-image-series",
   "series": [
     {
       "name": "ABCD_1",
       "frames": 469,
-      "video_url": "ABCD_1/timelapse.mp4",
-      "metadata_url": "ABCD_1/manifest.json"
+      "video_url": "https://github.com/dr-richard-barker/timelapse-image-series/releases/download/v1.0/ABCD_1-timelapse.mp4",
+      "metadata_url": "https://raw.githubusercontent.com/dr-richard-barker/timelapse-image-series/main/ABCD_1/manifest.json"
     },
     {
       "name": "Brachy_Enhanced_Per1_DB_1_1",
       "frames": 84,
-      "video_url": "Brachy_Enhanced_Per1_DB_1_1/timelapse.mp4",
-      "metadata_url": "Brachy_Enhanced_Per1_DB_1_1/manifest.json"
+      "video_url": "https://github.com/dr-richard-barker/timelapse-image-series/releases/download/v1.0/Brachy_Enhanced_Per1_DB_1_1-timelapse.mp4",
+      "metadata_url": "https://raw.githubusercontent.com/dr-richard-barker/timelapse-image-series/main/Brachy_Enhanced_Per1_DB_1_1/manifest.json"
     },
     {
       "name": "Brachy_Enhanced_Per1_DB_2_3",
       "frames": 84,
-      "video_url": "Brachy_Enhanced_Per1_DB_2_3/timelapse.mp4",
-      "metadata_url": "Brachy_Enhanced_Per1_DB_2_3/manifest.json"
+      "video_url": "https://github.com/dr-richard-barker/timelapse-image-series/releases/download/v1.0/Brachy_Enhanced_Per1_DB_2_3-timelapse.mp4",
+      "metadata_url": "https://raw.githubusercontent.com/dr-richard-barker/timelapse-image-series/main/Brachy_Enhanced_Per1_DB_2_3/manifest.json"
     },
     {
       "name": "Brachy_Enhanced_Per1_DB_3_2",
       "frames": 83,
-      "video_url": "Brachy_Enhanced_Per1_DB_3_2/timelapse.mp4",
-      "metadata_url": "Brachy_Enhanced_Per1_DB_3_2/manifest.json"
+      "video_url": "https://github.com/dr-richard-barker/timelapse-image-series/releases/download/v1.0/Brachy_Enhanced_Per1_DB_3_2-timelapse.mp4",
+      "metadata_url": "https://raw.githubusercontent.com/dr-richard-barker/timelapse-image-series/main/Brachy_Enhanced_Per1_DB_3_2/manifest.json"
     },
     {
       "name": "Brachy_Enhanced_TR7a_DB_1_3",
       "frames": 83,
-      "video_url": "Brachy_Enhanced_TR7a_DB_1_3/timelapse.mp4",
-      "metadata_url": "Brachy_Enhanced_TR7a_DB_1_3/manifest.json"
+      "video_url": "https://github.com/dr-richard-barker/timelapse-image-series/releases/download/v1.0/Brachy_Enhanced_TR7a_DB_1_3-timelapse.mp4",
+      "metadata_url": "https://raw.githubusercontent.com/dr-richard-barker/timelapse-image-series/main/Brachy_Enhanced_TR7a_DB_1_3/manifest.json"
     },
     {
       "name": "Brachy_Enhanced_TR7a_DB_2_2",
       "frames": 84,
-      "video_url": "Brachy_Enhanced_TR7a_DB_2_2/timelapse.mp4",
-      "metadata_url": "Brachy_Enhanced_TR7a_DB_2_2/manifest.json"
+      "video_url": "https://github.com/dr-richard-barker/timelapse-image-series/releases/download/v1.0/Brachy_Enhanced_TR7a_DB_2_2-timelapse.mp4",
+      "metadata_url": "https://raw.githubusercontent.com/dr-richard-barker/timelapse-image-series/main/Brachy_Enhanced_TR7a_DB_2_2/manifest.json"
     },
     {
       "name": "Day1-5_BW_jpg",
       "frames": 216,
-      "video_url": "Day1-5_BW_jpg/timelapse.mp4",
-      "metadata_url": "Day1-5_BW_jpg/manifest.json"
+      "video_url": "https://github.com/dr-richard-barker/timelapse-image-series/releases/download/v1.0/Day1-5_BW_jpg-timelapse.mp4",
+      "metadata_url": "https://raw.githubusercontent.com/dr-richard-barker/timelapse-image-series/main/Day1-5_BW_jpg/manifest.json"
     },
     {
       "name": "FL_1_ps",
       "frames": 191,
-      "video_url": "FL_1_ps/timelapse.mp4",
-      "metadata_url": "FL_1_ps/manifest.json"
+      "video_url": "https://github.com/dr-richard-barker/timelapse-image-series/releases/download/v1.0/FL_1_ps-timelapse.mp4",
+      "metadata_url": "https://raw.githubusercontent.com/dr-richard-barker/timelapse-image-series/main/FL_1_ps/manifest.json"
     },
     {
       "name": "FL_4_with_box_QRcode_v1",
       "frames": 192,
-      "video_url": "FL_4_with_box_QRcode_v1/timelapse.mp4",
-      "metadata_url": "FL_4_with_box_QRcode_v1/manifest.json"
+      "video_url": "https://github.com/dr-richard-barker/timelapse-image-series/releases/download/v1.0/FL_4_with_box_QRcode_v1-timelapse.mp4",
+      "metadata_url": "https://raw.githubusercontent.com/dr-richard-barker/timelapse-image-series/main/FL_4_with_box_QRcode_v1/manifest.json"
     },
     {
       "name": "FlashLapse_Straight_growth",
       "frames": 612,
-      "video_url": "FlashLapse_Straight_growth/timelapse.mp4",
-      "metadata_url": "FlashLapse_Straight_growth/manifest.json"
+      "video_url": "https://github.com/dr-richard-barker/timelapse-image-series/releases/download/v1.0/FlashLapse_Straight_growth-timelapse.mp4",
+      "metadata_url": "https://raw.githubusercontent.com/dr-richard-barker/timelapse-image-series/main/FlashLapse_Straight_growth/manifest.json"
     },
     {
       "name": "Gravatron_FlashLapse_DEMO",
       "frames": 200,
-      "video_url": "Gravatron_FlashLapse_DEMO/timelapse.mp4",
-      "metadata_url": "Gravatron_FlashLapse_DEMO/manifest.json"
+      "video_url": "https://github.com/dr-richard-barker/timelapse-image-series/releases/download/v1.0/Gravatron_FlashLapse_DEMO-timelapse.mp4",
+      "metadata_url": "https://raw.githubusercontent.com/dr-richard-barker/timelapse-image-series/main/Gravatron_FlashLapse_DEMO/manifest.json"
     }
   ],
   "total_series": 11
