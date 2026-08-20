@@ -1,0 +1,9 @@
+{
+  "name": "Gravatron_FlashLapse_DEMO",
+  "frame_count": 200,
+  "video_file": "timelapse.mp4",
+  "video_size_bytes": 61431022,
+  "fps": 30,
+  "codec": "H.264",
+  "created_at": "1787240825.664823"
+}

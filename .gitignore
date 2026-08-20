@@ -1,0 +1,5 @@
+frames/
+*.jpg
+*.jpeg
+*.JPG
+.DS_Store
